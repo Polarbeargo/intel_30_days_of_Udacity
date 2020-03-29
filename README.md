@@ -32,7 +32,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image28]: ./images/chatbot.gif  
 [image29]: ./images/mosquito_eggs.png  
 [image30]: ./images/1.png
-[image31]: ./images/2.png
+[image31]: ./images/After.png
 
 Collaborators:  
 
